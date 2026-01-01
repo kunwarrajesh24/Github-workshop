@@ -1,0 +1,35 @@
+Name: Rajesh Kumar
+Role: Assistant Professor
+Department: Computer Science / ECE
+Institution: NIELIT, New Delhi
+
+Education:
+- PhD in Computer Science
+- MTech in Electronics and Communication Engineering
+- MSc in Cyber Security
+
+Skills:
+- Python
+- Machine Learning
+- Cloud Computing (AWS)
+- Linux
+- DevSecOps
+- IoT
+
+Research Interests:
+- Machine Learning for IoT
+- Energy Efficient Sensor Networks
+- Intrusion Detection Systems
+- Cyber Security
+
+Publications:
+1. Implementing Machine Learning to Enhance Energy Efficiency in IoT Sensors and Devices
+2. Intrusion Detection and Prevention Using Machine Learning for IoT-based WSN Network
+
+Contact Details:
+Email: example@email.com
+Phone: +91-XXXXXXXXXX
+Location: India
+
+Remarks:
+This text file is created for testing, practice, and demonstration purposes.
